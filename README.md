@@ -97,4 +97,4 @@ http://localhost:5000/api/movies/tt0133093
 * Movie recommendation system
 * Charts for sentiment visualization
 
-# Live link - 
+# Live link - https://ai-movie-insight-frontend.vercel.app/
